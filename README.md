@@ -2,8 +2,8 @@
 
 This repository contains the system design for a **Live Drop application**, demonstrating a scalable, high-throughput architecture with stateless microservices, event-driven communication, caching strategies, and observability.
 
-## Graph Link
-[Excalidraw Diagram ]([https://excalidraw.com/#json=G6ZkETzjBxfdCRN_NfrjM,KqDSHiViwXq2iqMISiGSkw])
+## Diagram Link
+[Excalidraw Diagram](https://excalidraw.com/#json=G6ZkETzjBxfdCRN_NfrjM,KqDSHiViwXq2iqMISiGSkw)
 
 ---
 
