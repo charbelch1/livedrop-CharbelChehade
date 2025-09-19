@@ -62,7 +62,7 @@ This repository contains the system design for a **Live Drop application**, demo
 ## Event-Driven Architecture (Kafka)
 - Kafka enables asynchronous, high-throughput event processing to decouple services and allow real-time updates.
 - **Example events and producers:**
-  - `order_created` → Order Service(using idempotency)
+  - `order_created` → Order Service (using idempotency)
   - `drop_started`, `drop_ended` → Drops Service
   - `user_followed_creator`, `user_unfollowed_creator` → Follow Service
   - `payment_initiated`, `payment_completed`, `payment_failed` → Payment Service
