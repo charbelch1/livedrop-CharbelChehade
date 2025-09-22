@@ -37,13 +37,13 @@ We choose **Llama 3.1 8B Instruct** for AI-Enhanced Search (low-risk rerank, cos
 
 ### AI-Enhanced Search (Typeahead, Llama 3.1 8B)
 - Cost/action = (250/1000 × 0.05) + (60/1000 × 0.20) = **$0.0245**
-- Daily = 0.0245 × 50,000 × (1 − 0.70) = **$367.50**
+- Daily = 0.0245 × 50,000 × (1 − 0.70) = **$367.5**
 
 ### Support Chatbot (GPT-4o-mini)
-- Cost/action = (600/1000 × 0.15) + (150/1000 × 0.60) = **$0.1800**
-- Daily = 0.1800 × 1,000 × (1 − 0.30) = **$126.00**
+- Cost/action = (600/1000 × 0.15) + (150/1000 × 0.60) = **$0.18**
+- Daily = 0.18 × 1,000 × (1 − 0.30) = **$126**
 
-**Total estimated LLM spend/day ≈ $493.50**  
+**Total estimated LLM spend/day ≈ $493.5**  
 (Real-world likely lower due to selective reranking and response caching.)
 
 ---
@@ -53,4 +53,4 @@ We choose **Llama 3.1 8B Instruct** for AI-Enhanced Search (low-risk rerank, cos
 - Reduce RAG context to ≤ 400 tokens for common policies; prefer retrieval-augmented templates over freeform answers.
 - Use **Llama 3.1 8B** for low-risk chatbot paths (shipping times, store hours), keep GPT-4o-mini only for complex policy logic.
 - Increase typeahead cache window for top 1k queries; pre-compute/rank bundles for peak hours.
-- Tune reranker gating (trigger only when lexical+ANN disagreement > threshold).
+
