@@ -1,4 +1,4 @@
-#ShopLite Knowledge Base
+# ShopLite Knowledge Base
 
 
 ## Document 1: Product Search and Filtering Features
