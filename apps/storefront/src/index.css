@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+
+/* Calm, light background with subtle grid */
+body {
+  background-color: #fafafa; /* zinc-50 */
+  background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+  background-size: 16px 16px; /* subtle dot grid */
+}
+
+/* Accessible focus ring tuned for light theme */
+*:focus { outline: 2px solid #6366f1; /* indigo-500 */ outline-offset: 2px; }
+
+/* Links */
+a { color: #4f46e5; }
+a:hover { color: #4338ca; }

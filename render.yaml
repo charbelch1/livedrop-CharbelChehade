@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: shoplite-api
+    env: node
+    rootDir: apps/api
+    plan: free
+    buildCommand: npm ci
+    startCommand: npm start
+    autoDeploy: true
+    healthCheckPath: /health
+    # Set environment variables in the Render Dashboard after creating the service:
+    # - MONGODB_URI
+    # - DB_NAME (e.g., shoplite)
+    # - CORS_ORIGIN (e.g., https://your-app.vercel.app,vercel.app)
+    # - LLM_BASE_URL (optional)

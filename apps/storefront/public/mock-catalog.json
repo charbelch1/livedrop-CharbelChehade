@@ -1,0 +1,27 @@
+[
+  { "id": "itm-1001", "title": "Indigo Hoodie", "description": "Cozy mid‑weight hoodie in our signature indigo.", "price": 49.00, "image": "/logo.svg", "tags": ["apparel","indigo"], "stockQty": 42 },
+  { "id": "itm-1002", "title": "Minimal Daypack", "description": "Compact backpack with padded laptop sleeve.", "price": 59.00, "image": "/logo.svg", "tags": ["bags","travel"], "stockQty": 30 },
+  { "id": "itm-1003", "title": "Ceramic Mug 14oz", "description": "Matte glaze, comfortable handle, dishwasher‑safe.", "price": 16.00, "image": "/logo.svg", "tags": ["kitchen","home"], "stockQty": 80 },
+  { "id": "itm-1004", "title": "Wireless Earbuds", "description": "Compact case, 24h total playtime.", "price": 79.00, "image": "/logo.svg", "tags": ["tech","audio"], "stockQty": 55 },
+  { "id": "itm-1005", "title": "Desk Mat XL", "description": "Non‑slip surface, stitched edges.", "price": 22.00, "image": "/logo.svg", "tags": ["office","accessories"], "stockQty": 90 },
+  { "id": "itm-1006", "title": "USB‑C GaN Charger 30W", "description": "Fast, pocket‑sized USB‑C PD charger.", "price": 28.00, "image": "/logo.svg", "tags": ["tech","power"], "stockQty": 120 },
+  { "id": "itm-1007", "title": "Cable Kit", "description": "Braided USB‑C, Lightning, and micro‑USB.", "price": 19.00, "image": "/logo.svg", "tags": ["tech","accessories"], "stockQty": 150 },
+  { "id": "itm-1008", "title": "Everyday T‑Shirt", "description": "Soft cotton tee with tailored fit.", "price": 18.00, "image": "/logo.svg", "tags": ["apparel"], "stockQty": 110 },
+  { "id": "itm-1009", "title": "Foldable Bottle 600ml", "description": "Leak‑proof, BPA‑free, packs flat.", "price": 14.00, "image": "/logo.svg", "tags": ["outdoor","fitness"], "stockQty": 70 },
+  { "id": "itm-1010", "title": "Portable Lantern", "description": "Warm dimmable LED with hook.", "price": 26.00, "image": "/logo.svg", "tags": ["outdoor","lighting"], "stockQty": 44 },
+  { "id": "itm-1011", "title": "Yoga Strap", "description": "Durable cotton with metal buckle.", "price": 12.00, "image": "/logo.svg", "tags": ["fitness","yoga"], "stockQty": 65 },
+  { "id": "itm-1012", "title": "Resistance Bands", "description": "Set of 5 with carry pouch.", "price": 24.00, "image": "/logo.svg", "tags": ["fitness"], "stockQty": 58 },
+  { "id": "itm-1013", "title": "Notebook A5 Dot‑Grid", "description": "160 pages, lays flat.", "price": 9.00, "image": "/logo.svg", "tags": ["office","stationery"], "stockQty": 95 },
+  { "id": "itm-1014", "title": "Gel Pen Set (4)", "description": "0.5mm smooth black ink.", "price": 6.50, "image": "/logo.svg", "tags": ["office","stationery"], "stockQty": 140 },
+  { "id": "itm-1015", "title": "Travel Adapter", "description": "Universal, dual USB‑A + USB‑C.", "price": 25.00, "image": "/logo.svg", "tags": ["travel","tech"], "stockQty": 60 },
+  { "id": "itm-1016", "title": "Insulated Lunch Tote", "description": "Keeps meals fresh for hours.", "price": 20.00, "image": "/logo.svg", "tags": ["kitchen","travel"], "stockQty": 64 },
+  { "id": "itm-1017", "title": "Stainless Straw Kit", "description": "4 straws + brush in canvas pouch.", "price": 8.00, "image": "/logo.svg", "tags": ["eco","kitchen"], "stockQty": 160 },
+  { "id": "itm-1018", "title": "Compact Tripod", "description": "Aluminum, phone mount included.", "price": 32.00, "image": "/logo.svg", "tags": ["photo","tech"], "stockQty": 36 },
+  { "id": "itm-1019", "title": "Bluetooth Speaker", "description": "IPX5 splash‑resistant, deep bass.", "price": 39.00, "image": "/logo.svg", "tags": ["audio","outdoor"], "stockQty": 48 },
+  { "id": "itm-1020", "title": "Rechargeable Headlamp", "description": "USB‑C charging, 300 lumens.", "price": 27.00, "image": "/logo.svg", "tags": ["outdoor","lighting"], "stockQty": 52 },
+  { "id": "itm-1021", "title": "Key Organizer", "description": "Holds 6 keys, anti‑rattle design.", "price": 17.00, "image": "/logo.svg", "tags": ["accessories","everyday"], "stockQty": 130 },
+  { "id": "itm-1022", "title": "Indigo Cap", "description": "Curved brim, adjustable strap.", "price": 21.00, "image": "/logo.svg", "tags": ["apparel","indigo"], "stockQty": 75 },
+  { "id": "itm-1023", "title": "Cable Pouch", "description": "Organize chargers and cards.", "price": 15.00, "image": "/logo.svg", "tags": ["travel","tech"], "stockQty": 115 },
+  { "id": "itm-1024", "title": "Foldable Cutlery", "description": "Stainless trio in travel case.", "price": 10.00, "image": "/logo.svg", "tags": ["kitchen","outdoor"], "stockQty": 88 }
+]
+

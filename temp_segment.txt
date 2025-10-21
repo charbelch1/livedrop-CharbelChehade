@@ -1,0 +1,8 @@
+    return finalizeResponse();
+  }
+
+  }
+
+  // off_topic → LLM prompt (fallback to static)
+  if (intent === 'off_topic') {
+    try {
